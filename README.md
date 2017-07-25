@@ -1,5 +1,7 @@
 # electron-communication-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kahlil/electron-communication-example.svg)](https://greenkeeper.io/)
+
 An example implementation on how to communicate between two electron browser windows.
 
 To try it out clone this repository, run `npm install && npm start`.
